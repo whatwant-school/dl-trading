@@ -5,3 +5,7 @@
 - 웹사이트 : http://quantylab.com/
 - 블로그 : http://blog.quantylab.com/
 - GitHub : https://github.com/quantylab
+
+## 교재
+- Book : https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237929472
+- GitHub : https://github.com/quantylab/rltrader
